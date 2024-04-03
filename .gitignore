@@ -347,3 +347,6 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,latex,jupyternotebooks
+
+SSAI-2024-presentation.pdf
+dataset
